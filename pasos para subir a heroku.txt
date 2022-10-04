@@ -11,4 +11,4 @@ Configurar heroku
 4. heroku create musica-ia
 
 Abrir heroku
-1. heroku open
+1. heroku open 
