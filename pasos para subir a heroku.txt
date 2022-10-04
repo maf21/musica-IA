@@ -1,0 +1,6 @@
+Configurar variables de entorno:
+1. python -m venv venv
+2. venv\Scripts\activate
+3. flask run(comprobar si corre correctamente)
+4. set FLASK_ENV=development
+5. 
